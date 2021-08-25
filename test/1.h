@@ -1,1 +1,2 @@
-extern int add(double &x, int &y);
+extern int add(float *x, float *y);
+
