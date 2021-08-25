@@ -1,2 +1,1 @@
-extern int add(int x, int y);
-
+extern int add(double &x, int &y);
